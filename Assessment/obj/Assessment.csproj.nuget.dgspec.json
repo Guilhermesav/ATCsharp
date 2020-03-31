@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\ConsoleApp\\Assessment.csproj": {}
+    "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Assessment\\Assessment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\ConsoleApp\\Assessment.csproj": {
+    "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Assessment\\Assessment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\ConsoleApp\\Assessment.csproj",
+        "projectUniqueName": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Assessment\\Assessment.csproj",
         "projectName": "Assessment",
-        "projectPath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\ConsoleApp\\Assessment.csproj",
+        "projectPath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Assessment\\Assessment.csproj",
         "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Assessment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

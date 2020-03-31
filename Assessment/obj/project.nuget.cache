@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4mjJblIT87CK8bRZhTp5z/6qIggdXHQMu6BoaUzHQ5hyFbk3FdWhAlVpyUJxZA5Iy2J8hL8WwpKe9e4uaM1IUg==",
+  "dgSpecHash": "Eu758vk4Ub9DWanjFru86uC5p7aC2xjB6xMQsfsoDzWuQVs3sbvr0TuYZiU1H8QYwb33/KOPYyM3H9pzb0unGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\ConsoleApp\\Assessment.csproj",
+  "projectFilePath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Assessment\\Assessment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
