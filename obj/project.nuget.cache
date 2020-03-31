@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "AYWbfY5ifb8a3UauWbonKFRW0cuFZioGoZlfFxC7rj1ia/LVSoze5lDctSZndduF4SUjRynkN2GYmr4NEV3dnA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\ATCsharp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\PICHAU\\source\\repos\\Repositorios\\Repositorios.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\PICHAU\\source\\repos\\Repositorios\\Repositorios.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
