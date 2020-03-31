@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\ConsoleApp\\Tp3Csharp.csproj",
-      "projectName": "Tp3Csharp",
-      "projectPath": "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\ConsoleApp\\Tp3Csharp.csproj",
+      "projectUniqueName": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\ConsoleApp\\Assessment.csproj",
+      "projectName": "Assessment",
+      "projectPath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\ConsoleApp\\Assessment.csproj",
       "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -76,11 +76,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\Dominio\\Dominio.csproj"
+            "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Dominio\\Dominio.csproj"
             },
-            "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\Repositorios\\Repositorios.csproj": {
-              "projectPath": "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\Repositorios\\Repositorios.csproj"
+            "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Repositorios\\Repositorios.csproj": {
+              "projectPath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Repositorios\\Repositorios.csproj"
             }
           }
         }

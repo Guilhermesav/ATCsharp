@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xZxT0IZpga1WAYYEPdT5itM9tAhNONDzaA1IVcPyQEthoj3toGhMOGFQ/qlRTN873WIvGi8zrn+g4rFEMRneUA==",
+  "dgSpecHash": "gGc83KfBxLLVvGdxIWVe3PLdl3IP/MIaxBvAxgkHOLASMPV+Pq53HeZwPi30FuucXLXTjkDbpQwlsnMi8mbKWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

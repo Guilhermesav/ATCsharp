@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PICHAU\\source\\repos\\Tp3Csharp\\Dominio\\obj\\",
+      "outputPath": "C:\\Users\\PICHAU\\source\\repos\\ATCsharp\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
